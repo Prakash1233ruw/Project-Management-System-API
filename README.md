@@ -28,7 +28,7 @@ This RESTful API allows users to manage projects through CRUD operations. It is 
 4. **Run the application:**
 
    ```bash
-   java -jar target/project-management-system-api.jar
+   java -jar target/project-management-system.jar
    ```
 
    The application will start at `http://localhost:8787/ProjectManagementSystem`.
